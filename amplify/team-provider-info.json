@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-rnuberclone-dev-81934-authRole",
+      "UnauthRoleArn": "arn:aws:iam::978755801952:role/amplify-rnuberclone-dev-81934-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::978755801952:role/amplify-rnuberclone-dev-81934-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-rnuberclone-dev-81934-deployment",
+      "UnauthRoleName": "amplify-rnuberclone-dev-81934-unauthRole",
+      "StackName": "amplify-rnuberclone-dev-81934",
+      "StackId": "arn:aws:cloudformation:eu-central-1:978755801952:stack/amplify-rnuberclone-dev-81934/53cb7350-c024-11eb-ae03-02834064ab6a",
+      "AmplifyAppId": "d1lu60jtdf5o3w"
+    },
+    "categories": {
+      "function": {
+        "rnuberclone2487101a2487101aPostConfirmation": {
+          "deploymentBucketName": "amplify-rnuberclone-dev-81934-deployment",
+          "s3Key": "amplify-builds/rnuberclone2487101a2487101aPostConfirmation-7431636f674c4f326f49-build.zip"
+        }
+      },
+      "auth": {
+        "rnuberclone2487101a2487101a": {}
+      }
+    }
+  }
+}

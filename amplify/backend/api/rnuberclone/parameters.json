@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "rnuberclone",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authrnuberclone2487101a2487101a",
+      "Outputs.UserPoolId"
+    ]
+  }
+}
